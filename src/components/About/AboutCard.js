@@ -8,7 +8,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">James Han </span>
+            Hi Everyone, I am <span className="purple">Simu Liu </span>
             from <span className="purple"> ManSeau QC, Canada.</span>
             <br />Full stack developer with over 8+ years of experience in Java/JS, Angular, Vue, React, Python, Node.js. In improving user engagement by 15%, reducing development and deployment time by 20% and mentoring junior developers, resulting in a 10% improvement in team satisfaction scores. I have also good experiences of teamwork.
             <br />

@@ -10,10 +10,10 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by James Han</h3>
+          <h3>Designed and Developed by Simu Liu</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} J.H</h3>
+          <h3>Copyright © {year} S.L</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
@@ -21,22 +21,12 @@ function Footer() {
               <a
                 href="https://github.com/apple0441"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiFillGithub />
               </a>
             </li>
-            {/* <li className="social-icons">
-              <a
-                href="https://www.linkedin.com/in/soumyajit4419/"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <FaLinkedinIn />
-              </a>
-            </li> */}
           </ul>
         </Col>
       </Row>
